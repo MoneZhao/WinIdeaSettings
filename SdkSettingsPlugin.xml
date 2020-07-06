@@ -1,0 +1,9 @@
+<application>
+  <component name="core.configuration.AppSettingsState">
+    <option name="appSetting">
+      <AppSetting>
+        <option name="iconTypeClass" value="core.view.icon.impl.CuteIcon" />
+      </AppSetting>
+    </option>
+  </component>
+</application>
